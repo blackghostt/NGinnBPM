@@ -9,7 +9,7 @@
   "author": "lafar6502",
   "license": "ISC",
   "dependencies": {
-    "bpmn-moddle": "^0.8.0",
+    "bpmn-moddle": "^3.0.0",
     "lodash": "^3.3.0",
     "log4js": "^0.6.22"
   }
